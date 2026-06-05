@@ -4,7 +4,7 @@
 A cinematic, premium-quality responsive image gallery web application built as part of the front-end development internship at CodeAlpha. The project features a modern dark UI with glassmorphism aesthetics, an advanced masonry-style layout, category filtering, 3D tilt hover effects, and a smooth fullscreen lightbox experience.
 
 ## 🚀 Live Demo
-You can view the live project here: [Live Demo](https://varung-coder.github.io/CodeAlpha_ImageGallery/)
+You can view the live project here: https://varung-coder.github.io/CodeAlpha_ImageGallery/
 
 ## ✨ Key Features
 - **Cinematic Preloader:** A sleek loading animation before revealing the gallery.
